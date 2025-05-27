@@ -11,7 +11,7 @@ A beautiful, interactive 3D weather widget built with modern web technologies. T
 
 **Muhammad Sajid**  
 Full-Stack Developer | AI Integrator | Ethical Hacker  
-🌐 [Portfolio](https://sajid09.netlify.app/) • 💻 [GitHub](https://github.com/sajid09)
+🌐 [Portfolio](https://sajid09.netlify.app/) • 💻 [GitHub](https://github.com/ReXiOP)
 
 > With a background in building full-stack applications from scratch, I specialize in modern UI/UX, backend architecture, and interactive experiences. This project reflects my skillset in 3D visualization, real-time API usage, and responsive design.
 
@@ -54,7 +54,7 @@ Full-Stack Developer | AI Integrator | Ethical Hacker
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/3d-weather-widget.git
+git clone https://github.com/ReXiOP/3d-weather-widget.git
 cd 3d-weather-widget
 ```
 
@@ -174,6 +174,6 @@ units=imperial   // Fahrenheit
 ## 📬 Contact
 
 Need help or want to collaborate?  
-📧 Reach out via [Portfolio](https://sajid09.netlify.app/) or GitHub [Issues](https://github.com/yourusername/3d-weather-widget/issues)
+📧 Reach out via [Portfolio](https://sajid09.netlify.app/) or GitHub [Issues](https://github.com/ReXiOP/3d-weather-widget/issues)
 
 ---
